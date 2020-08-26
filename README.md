@@ -1,6 +1,6 @@
 # PRIMA
 
-[Link zur Abgabe](https://nesibehatzi.github.io/FUDGE-/FudgeSpaceShooter/Main.html)
+[Link zur Abgabe](https://nesibehatzi.github.io/PRIMA-Endabgabe/FudgeSpaceShooter/Main.html)
 
 ## Checkliste für Leistungsnachweis
 © Prof. Dipl.-Ing. Jirka R. Dell'Oro-Friedl, HFU
