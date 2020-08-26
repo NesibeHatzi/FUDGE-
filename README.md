@@ -1,4 +1,5 @@
 # PRIMA
+Abgabe für die Veranstaltung Prototyping interactive media-applications and games, für die Hochschule Furtwangen.
 
 [Link zur Abgabe](https://nesibehatzi.github.io/PRIMA-Endabgabe/FudgeSpaceShooter/Main.html)
 
