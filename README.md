@@ -21,4 +21,4 @@ Abgabe für die Veranstaltung Prototyping interactive media-applications and gam
 |  8 | Verhaltensklassen     | Spielfigur, Alle Gegnertypen, die in externen Dateien abgelegt sind. Welche Klassen sind dies und welches Verhalten wird dort beschrieben?                                                                                             |
 |  9 | Subklassen            | Enemy und Bullet erben jeweils von der Klasse Entity, Entity und die Spielfigur erben von ƒ.Node. Weitere Gegnertypen erben von Enemy und es gibt eine Klasse EnemyBullet, die von Bullet erbt.|
 | 10 | Maße & Positionen     | Die Figuren sind relativ klein gehalten, um den Screen besser zu nutzen. Kugeln sind etwa 1/6 einer Figur, damit der Spieler gut ihnen ausweichen kann.|
-| 11 | Event-System          | Das Eventsystem wird benutzt, um Spielobjekte zu updaten                                                    |
+| 11 | Event-System          | Das Eventsystem wird benutzt, um Spielobjekte zu updaten.                                                    |
